@@ -1,4 +1,6 @@
-### Hi there 👋
+## About me
+I'm a coder that specalises in VHDL living on the Isle of Wight.
+I have worked on control systems for in-flight entertainmet systems and naval air defence radar.
 
 <!--
 **djh1997/djh1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
