@@ -1,8 +1,11 @@
 # About me
 ## My name is David Jospeh Hawkins
-![gravatar profile picture](https://www.gravatar.com/avatar/b755cdffed1cfb12fea45a4810b2d144?s=2048)
+
 I'm a coder that specalises in VHDL, living on the Isle of Wight.
+
 I have worked on control systems for in-flight entertainmet systems and naval air defence radar.
+
+[gravatar profile](https://www.gravatar.com/b755cdffed1cfb12fea45a4810b2d144)
 
 <!--
 **djh1997/djh1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
