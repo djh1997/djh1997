@@ -1,8 +1,8 @@
-#Quotes
-##From my own brain
+# Quotes
+## From my own brain
 Dance like no one is watching, encrypt like every one is.
 Always salt your hash.
 
-#Terry Pratchett
+## Terry Pratchett
 Give a man fire and he'll be warm for a day. Set a man on fire and he'll be warm for the rest of his life.
 All fungi are edible. Some fungi are only edible once.
