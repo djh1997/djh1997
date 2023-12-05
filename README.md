@@ -5,7 +5,7 @@ I'm a coder that specalises in VHDL, living on the Isle of Wight.
 
 I have worked on control systems for in-flight entertainmet systems and naval air defence radar.
 
-[gravatar profile](https://www.gravatar.com/b755cdffed1cfb12fea45a4810b2d144)
+[gravatar profile](https://www.gravatar.com/70b91404066f890ce74de6c54a61f25595b231227bb7769c2b2b88e9e6f47260)
 
 <!--
 **djh1997/djh1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
