@@ -1,6 +1,6 @@
 # Quotes
 ## From my own brain
-Dance like no one is watching, encrypt like every one is.
+![](/d&e.svg)
 Always salt your hash.
 
 ## Terry Pratchett
