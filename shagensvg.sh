@@ -6,12 +6,9 @@ word=$(head -c 11 sha.txt)
 sha=$(sha256sum sha.txt)
 
 
-OF=$word'.html'
+OF=$word'.svg'
 
-echo  '<!DOCTYPE html>
-<html>
-<body>
-<svg height="100%" width="100%">
+echo  '<svg height="100%" width="100%">
   <text x="0" y="15" font-family="monospace">
   <tspan fill="#'${sha:0:6}'">'${word:0:1}'</tspan>
   <tspan fill="#'${sha:6:6}'">'${word:1:1}'</tspan>
@@ -25,6 +22,4 @@ echo  '<!DOCTYPE html>
   <tspan fill="#'${sha:54:6}'">'${word:9:1}'</tspan>
   <tspan fill="#'${sha:60:4}'00">'${word:10:1}'</tspan>
   </text>
-  </svg>
-  </body>
-  </html>' > $OF
+  </svg>' > $OF
