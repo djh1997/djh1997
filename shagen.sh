@@ -1,12 +1,12 @@
 #!/usr/bin/env bash
 
 #set variables
-OF=/var/www/html/sha.html
 
 word=$(head -c 11 /home/pi/sha/sha.txt)
 sha=$(sha256sum /home/pi/sha/sha.txt)
 
-seed=$(du -s --block-size=1GB 14tb/seed | head -c 4)
+
+OF=/var/www/html/'$word'.html
 
 echo  '<!DOCTYPE html>
 <html>
