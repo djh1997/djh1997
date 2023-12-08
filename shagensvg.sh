@@ -8,7 +8,8 @@ sha=$(sha256sum sha.txt)
 
 OF=$word'.svg'
 
-echo  '<svg height="100%" width="100%">
+echo  '<?xml version="1.0" encoding="utf-8"?>
+  <svg height="100%" width="100%" xmlns="http://www.w3.org/2000/svg">
   <text x="0" y="15" font-family="monospace">
   <tspan fill="#'${sha:0:6}'">'${word:0:1}'</tspan>
   <tspan fill="#'${sha:6:6}'">'${word:1:1}'</tspan>
