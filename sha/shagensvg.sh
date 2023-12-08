@@ -6,7 +6,7 @@ word=$(head -c 11 sha.txt)
 sha=$(sha256sum sha.txt)
 
 
-OF=$word'.svg'
+OF='output/'$word'.svg'
 
 echo  '<?xml version="1.0" encoding="utf-8"?>
   <svg height="30" width="200" xmlns="http://www.w3.org/2000/svg">

@@ -6,7 +6,7 @@ word=$(head -c 11 sha.txt)
 sha=$(sha256sum sha.txt)
 
 
-OF=$word'.html'
+OF='output/'$word'.html'
 
 echo  '<!DOCTYPE html>
 <html>
