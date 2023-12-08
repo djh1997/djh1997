@@ -1,5 +1,5 @@
 # About me
-## My name is David Jospeh Hawkins
+## My name is David Joseph Hawkins
 
 I'm a coder that specalises in VHDL, living on the Isle of Wight.
 
