@@ -1,6 +1,7 @@
 # Quotes
 ## From my own brain
-![](/d&e.svg)
+![](/quotes/d&e.svg)
+
 Always salt&#128788; your hash#.
 
 
