@@ -5,3 +5,4 @@
 |          | &#x1F525;        |          |
 
 &#x1F7C8;
+![octofrost](/quotes/octarine%20frost.svg)
