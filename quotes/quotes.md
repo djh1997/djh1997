@@ -15,3 +15,5 @@ Light thinks it travels faster than anything but it is wrong. No matter how fast
 The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.
 
 I once absent-mindedly ordered Three Mile Island dressing in a restaurant and, with great presence of mind, they brought Thousand Island Dressing and a bottle of chili sauce
+
+The role of listeners has never been fully appreciated. However, it is well known that most people don’t listen. They use the time when someone else is speaking to think of what they’re going to say next. True Listeners have always been revered among oral cultures, and prized for their rarity value; bards and poets are ten a cow, but a good Listener is hard to find, or at least hard to find twice
