@@ -3,7 +3,7 @@
 #set variables
 
 word=$(head -c 11 sha.txt)
-sha=$(sha256sum sha.txt)
+sha=$(head -c 11 sha.txt  | sha256sum)
 
 
 OF='output/'$word'.svg'
