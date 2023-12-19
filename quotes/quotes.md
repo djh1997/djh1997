@@ -2,7 +2,7 @@
 ## From my own brain
 ![](/quotes/d&e.svg)
 
-Always salt&#128788; your hash#.
+Always salt&#x1F714; your hash#.
 
 
 ## Terry Pratchett
