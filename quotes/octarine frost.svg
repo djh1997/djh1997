@@ -12,7 +12,7 @@
   <use href="#arm" transform="rotate(225 50 50)" />
   <use href="#arm" transform="rotate(270 50 50)" />
   <use href="#arm" transform="rotate(315 50 50)" />
-  <text x="-50" y="180" font-family="monospace" font-size="100px">&#x21AF;&#x1F7C7;&#x2608;</text>
-  <text x="0" y="280" font-family="monospace" font-size="100px">&#x1F525;</text>
+  <text x="-53" y="180" font-family="monospace" font-size="100px">&#x21AF;&#x1F7C7;&#x2608;</text>
+  <text x="10" y="260" font-family="monospace" font-size="100px">&#x1F702;</text>
 
 </svg>
