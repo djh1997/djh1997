@@ -24,3 +24,6 @@ It is a well-known fact that when one is about to die the senses immediately bec
 This is not true. The phenomenon is a classical example of displacement activity. The senses are desperately concentrating on anything apart from the immediate problem in the hope that it will go away.
 
 
+'Does a falling tree in the forest make a sound when there is no one to hear?'
+Which says something about the nature of philoso-phers, because there is always someone in a forest.
+Things just happen, one after another. They don't care who knows. But history ,ah, history is differ-ent. History has to be observed. Otherwise it's not history. It's just ,well, things happening one after another.
