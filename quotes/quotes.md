@@ -25,5 +25,5 @@ This is not true. The phenomenon is a classical example of displacement activity
 
 
 'Does a falling tree in the forest make a sound when there is no one to hear?'
-Which says something about the nature of philoso-phers, because there is always someone in a forest.
-Things just happen, one after another. They don't care who knows. But history ,ah, history is differ-ent. History has to be observed. Otherwise it's not history. It's just ,well, things happening one after another.
+Which says something about the nature of philosophers, because there is always someone in a forest.
+Things just happen, one after another. They don't care who knows. But history ,ah, history is different. History has to be observed. Otherwise it's not history. It's just ,well, things happening one after another.
