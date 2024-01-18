@@ -35,3 +35,7 @@ And Fate always wins. Most of the gods throw dice but Fate plays chess, and you 
 "I think you may have got it stuck up your bum."
 
 The only things known to go faster than ordinary light is monarchy, according to the philosopher Ly Tin Weedle. He reasoned like this: you can't have more than one king, and tradition demands that there is no gap between kings, so when a king dies the succession must therefore pass to the heir instantaneously.
+
+'Does a falling tree in the forest make a sound when there is no one to hear?'
+Which says something about the nature of philosophers, because there is always someone in a forest.
+Things just happen, one after another. They don't care who knows. But history ,ah, history is different. History has to be observed. Otherwise it's not history. It's just ,well, things happening one after another.
