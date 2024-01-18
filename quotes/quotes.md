@@ -2,7 +2,7 @@
 
 ## From my own brain
 
-![](/quotes/d&e.svg)
+![tattoo](/quotes/d&e.svg)
 
 Always salt&#x1F714; your hash#.
 
@@ -39,3 +39,5 @@ The only things known to go faster than ordinary light is monarchy, according to
 'Does a falling tree in the forest make a sound when there is no one to hear?'
 Which says something about the nature of philosophers, because there is always someone in a forest.
 Things just happen, one after another. They don't care who knows. But history ,ah, history is different. History has to be observed. Otherwise it's not history. It's just ,well, things happening one after another.
+
+The reason that the rich were so rich, Vimes reasoned, was because they managed to spend less money. Take boots, for example. ... A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while a poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet.
