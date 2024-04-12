@@ -7,8 +7,8 @@ while [ true ]; do
   #get values
   temp=$(cat /sys/class/thermal/thermal_zone0/temp)
   if(($temp >= 50000)); then 
-  uptime=$(uptime)
-  echo $temp','$uptime >>$LOG; 
+  date=$(date)
+  echo $temp','$date >>$LOG; 
   fi
   sleep 10
 
