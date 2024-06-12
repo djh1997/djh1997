@@ -41,3 +41,10 @@ Which says something about the nature of philosophers, because there is always s
 Things just happen, one after another. They don't care who knows. But history ,ah, history is different. History has to be observed. Otherwise it's not history. It's just ,well, things happening one after another.
 
 The reason that the rich were so rich, Vimes reasoned, was because they managed to spend less money. Take boots, for example. ... A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while a poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet.
+
+# other 
+
+Sometimes in life, even though it's not your *fault*, it's still your problem. (Marco Arment)
+
+You touch it, you own it (unknown but common place philosophy at work around issues/documents)
+
