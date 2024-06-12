@@ -48,3 +48,5 @@ Sometimes in life, even though it's not your *fault*, it's still your problem. (
 
 You touch it, you own it (unknown but common place philosophy at work around issues/documents)
 
+[lots more wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
+
