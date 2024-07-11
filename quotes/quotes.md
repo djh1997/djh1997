@@ -48,5 +48,7 @@ Sometimes in life, even though it's not your *fault*, it's still your problem. (
 
 You touch it, you own it (unknown but common place philosophy at work around issues/documents)
 
+It is acceptable to exceed your authority if correcting you will embarrass your superiors. (DR Stephen South Wolff)
+
 [lots more wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 
