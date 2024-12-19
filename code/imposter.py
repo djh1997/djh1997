@@ -11,16 +11,16 @@ numf.close()
 
 master = randint(0,len(numlist)-1)
 outlist = []
-outlist.append([numlist.pop(master),' master ',item,'\n'])
+outlist.append([numlist.pop(master),'master '+item+'\n'])
 
 imposter = randint(0,len(numlist)-1)
-outlist.append([numlist.pop(imposter),' imposter ',item,'\n'])
+outlist.append([numlist.pop(imposter),'imposter '+item+'\n'])
 
 outf = open("out.txt", "w")
 
 for i in range (0,len(numlist)):
-  outlist.append([numlist[i],' commoner\n'])
-
+  outlist.append([numlist[i],'commoner\n'])
+outlist.sort()
 for x in range (0,len(outlist)):
-	outf.writelines(outlist[x])
+	outf.writelines(outlist[x][1])
 outf.close()
