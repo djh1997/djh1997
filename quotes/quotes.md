@@ -42,9 +42,9 @@ Things just happen, one after another. They don't care who knows. But history ,a
 
 The reason that the rich were so rich, Vimes reasoned, was because they managed to spend less money. Take boots, for example. ... A man who could afford fifty dollars had a pair of boots that'd still be keeping his feet dry in ten years' time, while a poor man who could only afford cheap boots would have spent a hundred dollars on boots in the same time and would still have wet feet.
 
-# other 
+## Other
 
-Sometimes in life, even though it's not your *fault*, it's still your problem. (Marco Arment)
+Sometimes in life, even though it's not your _fault_, it's still your problem. (Marco Arment)
 
 You touch it, you own it (unknown but common place philosophy at work around issues/documents)
 
@@ -56,5 +56,4 @@ You touch it, you own it (unknown but common place philosophy at work around iss
 
 It is acceptable to exceed your authority if correcting you will embarrass your superiors. (DR [Stephen South Wolff](https://en.wikipedia.org/wiki/Stephen_Wolff))
 
-[lots more wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
-
+[lots more wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md) from Merlin Mann
