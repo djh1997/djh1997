@@ -2,7 +2,7 @@
 
 ## From my own brain
 
-![tattoo](/quotes/d&e.svg)
+![Dance line nobody's watching, Encrypt like everybody is.](/quotes/d&e.svg)
 
 Always salt&#x1F714; your hash#.
 
