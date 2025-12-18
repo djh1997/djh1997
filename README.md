@@ -1,6 +1,6 @@
 # About me
 
-![uni open day](https://raw.githubusercontent.com/djh1997/proj324/master/docs/openday.JPG) ![wedding day](https://0.gravatar.com/userimage/208158577/df4bb0423ad7d6b82812283150d2be39?size=600)
+![uni open day](https://1.gravatar.com/userimage/208158577/052f963e2b7a6842e96f68c3bf241366?size=600) ![wedding day](https://0.gravatar.com/userimage/208158577/df4bb0423ad7d6b82812283150d2be39?size=600)
 
 ## My name is David Joseph Hawkins
 
