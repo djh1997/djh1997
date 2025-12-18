@@ -1,5 +1,7 @@
 # About me
-![uni open day](https://raw.githubusercontent.com/djh1997/proj324/blob/master/docs/openday.JPG) ![wedding day](https://0.gravatar.com/userimage/208158577/df4bb0423ad7d6b82812283150d2be39?size=600)
+
+![uni open day](https://raw.githubusercontent.com/djh1997/proj324/master/docs/openday.JPG) ![wedding day](https://0.gravatar.com/userimage/208158577/df4bb0423ad7d6b82812283150d2be39?size=600)
+
 ## My name is David Joseph Hawkins
 
 [![wakatime](https://wakatime.com/badge/user/677847e8-ed61-4250-aee6-27df12870cb2.svg?style=for-the-badge)](https://wakatime.com/@677847e8-ed61-4250-aee6-27df12870cb2)
