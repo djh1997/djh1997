@@ -1,6 +1,6 @@
 # About me
 
-![uni open day](https://1.gravatar.com/userimage/208158577/052f963e2b7a6842e96f68c3bf241366?size=600) ![wedding day](https://0.gravatar.com/userimage/208158577/df4bb0423ad7d6b82812283150d2be39?size=600)
+![uni open day](https://1.gravatar.com/userimage/208158577/052f963e2b7a6842e96f68c3bf241366?size=300) ![wedding day](https://0.gravatar.com/userimage/208158577/df4bb0423ad7d6b82812283150d2be39?size=300)
 
 ## My name is David Joseph Hawkins
 
@@ -16,15 +16,13 @@ I'm a coder that specialises in VHDL, living on the Isle of Wight.
 
 I have worked on real time control systems for in-flight entertainment and naval air defense radar.
 
-I also run the [Isle of Wight](https://iow.triumphsportsix.club) area of the [Triumph Sport Six Club](https://www.tssc.org.uk/tssc/areas_final.asp?area_ID=37&area=South%20East,%20Isle%20of%20Wight)
+I also run the [Isle of Wight](https://iow.triumphsportsix.club) area of the [Triumph Sports Six Club](https://www.tssc.org.uk/tssc/areas_final.asp?area_ID=37&area=South%20East,%20Isle%20of%20Wight)
 
 ## Published projects
 
 [final year uni project](https://uni.hawkins.engineer)
 
 [github profile](https://github.com/djh1997)
-
-Triumph sport six club isle of wight area [website](https://iow.triumphsportsix.club)
 
 [vhdl introduction](https://djh1997.github.io/radar-work-experience/)
 
