@@ -48,13 +48,13 @@ Sometimes in life, even though it's not your *fault*, it's still your problem. (
 
 You touch it, you own it (unknown but common place philosophy at work around issues/documents)
 
-"Information is power. But like all power, there are those who want to keep it for themselves. The world's entire scientific and cultural heritage, published over centuries in books and journals, is increasingly being digitized and locked up by a handful of private corporations. Want to read the papers featuring the most famous results of the sciences? You'll need to send enormous amounts to publishers like Reed Elsevier." ~ Aaron Swartz
+"Information is power. But like all power, there are those who want to keep it for themselves. The world's entire scientific and cultural heritage, published over centuries in books and journals, is increasingly being digitized and locked up by a handful of private corporations. Want to read the papers featuring the most famous results of the sciences? You'll need to send enormous amounts to publishers like Reed Elsevier." ~ [Aaron Swartz](https://en.wikipedia.org/wiki/Aaron_Swartz)
 
 "We need to take information, wherever it is stored, make our copies and share them with the world. We need to take stuff that's out of copyright and add it to the archive. We need to buy secret databases and put them on the Web. We need to download scientific journals and upload them to file sharing networks... With enough of us, around the world, we’ll not just send a strong message opposing the privatization of knowledge - we’ll make it a thing of the past. Will you join us?" ~ Aaron Swartz
 
 "A piece of knowledge, unlike a piece of physical property, can be shared by large groups of people without making anybody poorer." ~ Aaron Swartz
 
-It is acceptable to exceed your authority if correcting you will embarrass your superiors. (DR Stephen South Wolff)
+It is acceptable to exceed your authority if correcting you will embarrass your superiors. (DR [Stephen South Wolff](https://en.wikipedia.org/wiki/Stephen_Wolff))
 
 [lots more wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md)
 
