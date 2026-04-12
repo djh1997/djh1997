@@ -1,1 +1,3 @@
 .vscode/
+nginx/nginx.conf
+.DS_Store
