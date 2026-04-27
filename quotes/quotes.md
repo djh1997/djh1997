@@ -59,3 +59,7 @@ You touch it, you own it (unknown but common place philosophy at work around iss
 It is acceptable to exceed your authority if correcting you will embarrass your superiors. (DR [Stephen South Wolff](https://en.wikipedia.org/wiki/Stephen_Wolff))
 
 [lots more wisdom](https://github.com/merlinmann/wisdom/blob/master/wisdom.md) from Merlin Mann
+
+Too much live to live, too few shits to give. ~ Cooper Alan
+
+'Could I have foreseen the work I have to go through I would never have entered upon it, but I never flinch, and do it we will. ~ Isambard Kingdom Brunel.
