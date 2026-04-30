@@ -20,7 +20,7 @@
 #
 
 map $sent_http_content_type $expires {
-    default                    off;
+    default                    30d;
     text/html                  1h;
     text/css                   max;
     application/javascript     max;
@@ -30,7 +30,6 @@ map $sent_http_content_type $expires {
 server {
 	listen 80 default_server;
 	listen [::]:80 default_server;
-	expires $expires;
 
 	# SSL configuration
 	#
@@ -54,6 +53,8 @@ server {
 	index index.html index.htm index.nginx-debian.html;
 
 	server_name _;
+
+	expires $expires;
 
 	location / {
 		# First attempt to serve request as file, then
@@ -100,6 +101,7 @@ server {
 #	}
 #}
 
+
 server {
 
 	# SSL configuration
@@ -119,11 +121,12 @@ server {
 	# include snippets/snakeoil.conf;
 
 	root /var/www/html;
-	expires $expires;
+
 	# Add index.php to the list if you are using PHP
 	index index.html index.htm index.nginx-debian.html;
-    server_name iow.triumphsportsix.club; # managed by Certbot
+    server_name iow.triumphsportsix.club, www.triumphsportsix.club; # managed by Certbot
 
+	expires $expires;
 
 	location / {
 		# First attempt to serve request as file, then
@@ -151,7 +154,7 @@ server {
 
 
     listen [::]:443 ssl; # managed by Certbot
-    listen 443 ssl http2; # managed by Certbot
+    listen 443 ssl; # managed by Certbot
     ssl_certificate /etc/letsencrypt/live/iow.triumphsportsix.club/fullchain.pem; # managed by Certbot
     ssl_certificate_key /etc/letsencrypt/live/iow.triumphsportsix.club/privkey.pem; # managed by Certbot
     include /etc/letsencrypt/options-ssl-nginx.conf; # managed by Certbot
@@ -168,5 +171,6 @@ server {
 	listen [::]:80 ;
     server_name iow.triumphsportsix.club;
     return 404; # managed by Certbot
+
 
 }
