@@ -63,3 +63,5 @@ It is acceptable to exceed your authority if correcting you will embarrass your 
 Too much live to live, too few shits to give. ~ Cooper Alan
 
 'Could I have foreseen the work I have to go through I would never have entered upon it, but I never flinch, and do it we will. ~ Isambard Kingdom Brunel.
+
+The earth [is] alive in all of these ways simultaneously. Like alive with the the geology of the aurora because the aurora is like more or less a geological phenomenon. And then alive with like the water cycle of thunderstorms. And then alive with the green on the continents. And then alive with the the city lights on the coasts of these continents. And then alive with the satellites twinkling and threading through space on the outside. ~ Hank Green about talking about ![blue marble lit by full moon](Earth2copy.gif)
