@@ -44,6 +44,8 @@ The reason that the rich were so rich, Vimes reasoned, was because they managed 
 
 Commander Vimes didn't like the phrase 'The innocent have nothing to fear', believing the innocent had everything to fear, mostly from the guilty but in the longer term even more from those who say things like 'The innocent have nothing to fear'.
 
+There are times in life when people must know when not to let go. Balloons are designed to teach small children this.
+
 ## Other
 
 Sometimes in life, even though it's not your _fault_, it's still your problem. (Marco Arment)
