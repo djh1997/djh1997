@@ -29,3 +29,5 @@ I also run the [Isle of Wight](https://iow.triumphsportsix.club) area of the [Tr
 [dnd character sheet](https://dnd.hawkins.engineer)
 
 [TSSC youth](https://youth.triumphsportsix.club)
+
+[Quotes](https://www.hawkins.engineer/quotes)

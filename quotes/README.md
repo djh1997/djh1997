@@ -8,6 +8,10 @@ Always salt&#x1F714; your hash#.
 
 ## Terry Pratchett
 
+![wintersmith symbol](/quotes/bookmark.svg)
+
+Thunder on my right hand. Lightning in my left hand. Fire behind me. Frost in front of me.
+
 Give a man fire and he'll be warm for a day. Set a man on fire and he'll be warm for the rest of his life.
 
 All fungi are edible. Some fungi are only edible once.
