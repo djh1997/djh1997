@@ -38,6 +38,8 @@ And Fate always wins. Most of the gods throw dice but Fate plays chess, and you 
 "What?"
 "I think you may have got it stuck up your bum."
 
+Evil begins when you begin to treat people as things.
+
 The only things known to go faster than ordinary light is monarchy, according to the philosopher Ly Tin Weedle. He reasoned like this: you can't have more than one king, and tradition demands that there is no gap between kings, so when a king dies the succession must therefore pass to the heir instantaneously.
 
 'Does a falling tree in the forest make a sound when there is no one to hear?'
