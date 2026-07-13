@@ -54,6 +54,8 @@ There are times in life when people must know when not to let go. Balloons are d
 
 ## Other
 
+I love deadlines. I love the whooshing noise they make as they go by. ~ Douglas Adams
+
 Sometimes in life, even though it's not your _fault_, it's still your problem. (Marco Arment)
 
 You touch it, you own it (unknown but common place philosophy at work around issues/documents)
