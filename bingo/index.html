@@ -1,13 +1,21 @@
-
+<style>
+table, tr, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+tr, td {
+  width:20%;
+  height:20%;
+  text-align: center; 
+  vertical-align: middle;
+}
+</style>
 <script src="bingo.js">
 </script>
 <form id="frm1">
-  Input: <input type="text" name="input" value="R,r,r"><br>
+  Input: <input type="text" name="input" value="bucket hat,bad sun burn,dog,cat,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25"><br>
   <input type="reset" value="Reset">
 </form> 
-
-<button onclick="help()">Help</button>
 <button onclick="BuildBingo()">Generate</button>
-<button onclick="download_svg()">Download SVG</button>
 
 <p id="output"></p>
