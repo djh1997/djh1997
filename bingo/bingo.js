@@ -17,7 +17,7 @@ function BuildBingo(){
     BingoTable += '<tr>';
     for (var x = 0; x < 5; x++) {
       if (i === 2 && x === 2) {
-        BingoTable += '<td>Free<p>Bingo<p>Space</td>';
+        BingoTable += '<td>Beach<p>&#x1F3D6<p>Bingo</td>';
         continue;
       }
       BingoTable += '<td>' + PopRandElm(inputs) + '</td>';
