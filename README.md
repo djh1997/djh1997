@@ -9,6 +9,7 @@
 ![GitHub issue custom search](https://img.shields.io/github/issues-search?query=owner%3Adjh1997%20is%3Aopen&style=for-the-badge&logo=github&label=Issues)
 [![mastodon](https://img.shields.io/mastodon/follow/109443534112738702?domain=https%3A%2F%2Fmastodon.iow.social&style=for-the-badge&logo=Mastodon&label=djh1997&color=6364FF)](https://mastodon.iow.social/@Djh1997)
 [![gravatar](https://img.shields.io/badge/djh1997-gravatar?style=for-the-badge&label=gravatar&logo=gravatar)](https://gravatar.com/echidnapepperkleopatra37192)
+[![pages-build-deployment](https://github.com/djh1997/djh1997/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/djh1997/djh1997/actions/workflows/pages/pages-build-deployment)
 
 I'm djh1997 most places online.
 
