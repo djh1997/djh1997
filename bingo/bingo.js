@@ -12,7 +12,7 @@ function BuildBingo(){
   var input = form.elements.input.value.trim();
   var output = document.getElementById("output");
   var inputs = input.split(/,/).filter(Boolean);
-  var BingoTable = '<table style="width:100%; height:900px;">';
+  var BingoTable = '<table style="width:100%; height:100%;">';
   for (var i = 0; i < 5; i++) {
     BingoTable += '<tr>';
     for (var x = 0; x < 5; x++) {
