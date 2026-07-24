@@ -21,13 +21,17 @@ function Build(){
     roles += ',Commoner';
   }
   roles = roles.split(/,/).filter(Boolean);
+  if (numbeOfPlayers >= 8){
+    roles.pop();
+	roles.push('Imposter');
+  }
   for (var x = 0;  x < numbeOfPlayers; x++){
     slecetedrole = PopRandElm(roles)
     if (slecetedrole === 'Game Master' || slecetedrole === 'Imposter') {
-      PlayerButtons += '<button onclick="DisplayRole(\''+inputs[x]+' your Role is '+slecetedrole+' and the secret word is '+slecetedWord+'\')">'+inputs[x]+'</button>  ';
+      PlayerButtons += '<button onclick="DisplayRole(\''+inputs[x]+' your Role is '+slecetedrole+' and the secret word is '+slecetedWord+'\')">'+inputs[x]+'</button>';
       continue;
     }
-    PlayerButtons += '<button onclick="DisplayRole(\''+inputs[x]+' your Role is '+slecetedrole+'\')">'+inputs[x]+'</button>  ';
+    PlayerButtons += '<button onclick="DisplayRole(\''+inputs[x]+' your Role is '+slecetedrole+'\')">'+inputs[x]+'</button>';
   }
   
   output.innerHTML = PlayerButtons
@@ -37,10 +41,10 @@ function Build(){
 function DisplayRole(name){
   var role = document.getElementById("role");
   
-  if ('Role: '+name === role.innerHTML ) {
+  if (name === role.innerHTML ) {
     role.innerHTML = '' ;
   }else{
-    role.innerHTML = 'Role: '+name
+    role.innerHTML = name
 }
 }
 

@@ -1,25 +1,16 @@
 <style>
-table, tr, td {
-  border: 1px solid black;
-  border-collapse: collapse;
-}
-tr, td {
-  width:20%;
-  height:20%;
-  text-align: center; 
-  vertical-align: middle;
-}
+button{padding: 5%;}
 </style>
 <script src="imposter.js">
 </script>
 <form id="frm1">
   Input: <input type="text" name="name" value="Jo,Roxy,Haydn,Jess"><br>
-  <input type="reset" value="Reset">
+  <input style="padding: 1%;" type="reset" value="Reset">
 </form> 
 
 
-<button onclick="displayrole('')">hide</button>
-<button onclick="Build()">Generate</button>
+<button style="padding: 1%;" onclick="DisplayRole('')">hide</button>
+<button style="padding: 1%;" onclick="Build()">Generate</button>
 
 <p id="output"></p>
 <p id="role"></p>
