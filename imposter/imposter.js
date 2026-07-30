@@ -14,7 +14,7 @@ function Build(){
   var inputs = input.split(/,/).filter(Boolean);
   var numbeOfPlayers = inputs.length
   var roles = 'Game Master,Imposter'
-  var PlayerButtons = ''
+  var PlayerButtons = '<button style="padding: 1%;" onclick="DisplayRole(\'\')">hide</button><br>'
   var slecetedrole = ''
   var slecetedWord = SelectWord()
   for (var i = 0;  i < numbeOfPlayers-2; i++){
