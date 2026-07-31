@@ -3,8 +3,7 @@ const CHAR_COUNT = 11;
     const generateBtn = document.getElementById('generateBtn');
     const downloadBtn = document.getElementById('downloadBtn');
     const preview = document.getElementById('preview');
-    let lastSvg = '';
-    let lastWord = '';
+    let Svgs = [];
 
     async function hashHex(value) {
       const bytes = new TextEncoder().encode(value);
@@ -14,8 +13,12 @@ const CHAR_COUNT = 11;
         .join('');
     }
 
-    function getWord(source) {
-      return source.slice(0, CHAR_COUNT);
+    function getWords(source) {
+      return source
+        .split(/\r?\n/)
+        .map((line) => line.trim())
+        .filter(Boolean)
+        .map((line) => line.slice(0, CHAR_COUNT));
     }
 
     function buildSvg(word, sha) {
@@ -37,48 +40,54 @@ const CHAR_COUNT = 11;
       return fragments.join('');
     }
 
-    function renderPreview(svgText) {
-      preview.innerHTML = svgText;
+    function renderPreview(items) {
+      preview.innerHTML = items.map(({ svg }) => `
+        <div style="margin-bottom: 10px;">
+          ${svg}
+        </div>
+      `).join('');
     }
 
-    function updatePage(svgText, word) {
-      lastSvg = svgText;
-      lastWord = word;
-      renderPreview(svgText);
-      downloadBtn.disabled = !word;
+    function updatePage(items) {
+      Svgs = items;
+      renderPreview(items);
+      downloadBtn.disabled = items.length === 0;
     }
 
     async function generate() {
-      const sourceText = textInput.value.trim();
-      if (!sourceText) {
+      const sourceText = textInput.value;
+      const words = getWords(sourceText);
+
+      if (!words.length) {
         alert('Please enter text first.');
         return;
       }
 
-      const word = getWord(sourceText);
-      if (!word) {
-        alert('The source text must contain at least one character.');
-        return;
+      const items = [];
+      for (const word of words) {
+        const sha = await hashHex(word);
+        items.push({ word, svg: buildSvg(word, sha) });
       }
 
-      const sha = await hashHex(word);
-      const svg = buildSvg(word, sha);
-      updatePage(svg, word);
+      updatePage(items);
     }
 
     function downloadSvg() {
-      if (!lastSvg || !lastWord) {
+      if (!Svgs.length) {
         return;
       }
-      const blob = new Blob([lastSvg], { type: 'image/svg+xml;charset=utf-8' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = `${lastWord}.svg`;
-      document.body.appendChild(a);
-      a.click();
-      document.body.removeChild(a);
-      URL.revokeObjectURL(url);
+
+      Svgs.forEach(({ word, svg }) => {
+        const blob = new Blob([svg], { type: 'image/svg+xml;charset=utf-8' });
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `${word}.svg`;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      });
     }
 
     generateBtn.addEventListener('click', generate);

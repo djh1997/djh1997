@@ -3,51 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <title>SHA-generated SVG preview</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.5;
-      margin: 24px;
-      max-width: 800px;
-    }
-    label, button {
-      display: block;
-      margin: 12px 0 6px;
-    }
-    textarea {
-      width: 100%;
-      min-height: 80px;
-      font-family: monospace;
-      resize: vertical;
-    }
-    .controls {
-      display: flex;
-      gap: 12px;
-      flex-wrap: wrap;
-      margin: 12px 0 18px;
-    }
-    .preview {
-      border: 1px solid #ccc;
-      padding: 12px;
-      min-height: 70px;
-      display: inline-block;
-    }
-    .output {
-      margin-top: 18px;
-      white-space: pre-wrap;
-      background: #f8f8f8;
-      border: 1px solid #ddd;
-      padding: 12px;
-      overflow-x: auto;
-    }
-  </style>
 </head>
 <body>
   <h1>SVG Preview / Download</h1>
-  <p>Paste text the first 11 characters will be used to build the SVG.</p>
-
-  <label for="textInput">Word input (first 11 characters used):</label>
-  <textarea id="textInput" placeholder="Enter up to 11 characters here" value="wintersmith"></textarea>
+  <p>Paste text. Each non-empty line will generate its own SVG using the first 11 characters.</p>
+  <label for="textInput">Word input (first 11 characters used per line):</label><br>
+  <textarea id="textInput" rows="5" placeholder="Enter
+one
+word
+per
+line"></textarea>
 
   <div class="controls">
     <button id="generateBtn">Generate</button>
