@@ -32,3 +32,10 @@ I also run the [Isle of Wight](https://iow.triumphsportsix.club) area of the [Tr
 [TSSC youth](https://youth.triumphsportsix.club)
 
 [Quotes](https://www.hawkins.engineer/quotes)
+
+[Roadmap Generator](https://iow.triumphsportsix.club/assets/tulip/)
+
+Games:
+
+- [Imposter](https://www.hawkins.engineer/imposter)
+- [Bingo](https://www.hawkins.engineer/bingo)
