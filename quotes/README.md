@@ -76,4 +76,6 @@ Too much live to live, too few shits to give. ~ Cooper Alan
 
 The moment an institution forgets the rules that had been painfully written in blood, even the most advanced technologies in the world can't guarantee the safety of its operators. ~ bein tuxton
 
+Are you aware that people can see how you treat strangers? ~ Merlin Mann
+
 The earth [is] alive in all of these ways simultaneously. Like alive with the the geology of the aurora because the aurora is like more or less a geological phenomenon. And then alive with like the water cycle of thunderstorms. And then alive with the green on the continents. And then alive with the the city lights on the coasts of these continents. And then alive with the satellites twinkling and threading through space on the outside. ~ Hank Green about talking about the ![cosmic shoreline](/quotes/Earth2copy.gif)
