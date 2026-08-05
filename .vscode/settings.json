@@ -1,3 +1,5 @@
 {
-  "svg.preview.background": "editor"
+  "svg.preview.background": "editor",
+  "python.analysis.userFileIndexingLimit": -1,
+  "python.analysis.enableParallelIndexing": true
 }
