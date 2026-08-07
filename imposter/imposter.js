@@ -108,7 +108,8 @@ function StartTimer() {
       clearInterval(timerInterval);
       var timer = document.getElementById('timer');
       if (timer) {
-        timer.innerHTML = 'Time is up!<br><button style="padding: 1%;" onclick="ExtendTimer()">Extend Timer</button>';
+        timer.innerHTML = 'Time is up!<br><button style="padding: 1%;" onclick="ExtendTimer()">Extend Timer</button><br>'+
+        '<button style="padding: 1%;" onclick="Reset()">Play Again</button>';
       }
       return;
     }
@@ -127,4 +128,11 @@ function UpdateTimerDisplay(seconds) {
 function ExtendTimer() {
   timeLeft += 60;
   StartTimer(timeLeft);
+}
+
+function Reset() {
+  timeLeft = timerDuration;
+  var output = document.getElementById("output");
+  output.innerHTML = '<button style="padding: 1%;" onclick="Build()">Assign Roles</button>';
+  DisplayRole('');
 }
