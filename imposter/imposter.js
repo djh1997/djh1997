@@ -2,7 +2,7 @@ const FullRulesText = '<p><button style="padding: 1%;" onclick="Rules()">Hide Ru
 '<h1>Prep</h1><ul>'+
 '<li>Click "Assign Roles".</li>'+
 '<li>For each player:<ul>'+
-'<li>Click on your name to reveal your role.</li>'+
+'<li>Click on your name to reveal your role.Commoner,Game Master,Imposter (if there is 8 or more players there are 2 Imposters)</li>'+
 '<li>Click either you name again or "Hide Role" to hide your role.</li>'+
 '<li>Pass the phone to the next player.</li></ul></li>'+
 '<li>Once everybody has there role pass the phone back to the game master.</li>'+
