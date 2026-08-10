@@ -36,7 +36,7 @@ const CHAR_COUNT = 11;
       }
 
       fragments.push('</text>');
-      fragments.push('<!--${sha}-->');
+      fragments.push(`<!-- ${sha} -->`);
       fragments.push('</svg>');
       return fragments.join('');
     }
