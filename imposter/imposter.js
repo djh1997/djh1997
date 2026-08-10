@@ -111,6 +111,7 @@ function StartTimer() {
         timer.innerHTML = 'Time is up!<br><button style="padding: 1%;" onclick="ExtendTimer()">Extend Timer</button><br>'+
         '<button style="padding: 1%;" onclick="Reset()">Play Again</button>';
       }
+      alert('Time is up!');
       return;
     }
     UpdateTimerDisplay(timeLeft);
