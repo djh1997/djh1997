@@ -26,7 +26,7 @@ const CHAR_COUNT = 11;
       fragments.push('<?xml version="1.0" encoding="utf-8"?>');
       fragments.push('<svg height="19" width="162" xmlns="http://www.w3.org/2000/svg">');
       fragments.push('<text x="0" y="15" font-family="monospace">');
-
+      fragments.push(`<!-- ${sha} -->`);
       for (let i = 0; i < CHAR_COUNT; i += 1) {
         const char = word[i] || '';
         const fill = i !== CHAR_COUNT - 1
@@ -36,7 +36,6 @@ const CHAR_COUNT = 11;
       }
 
       fragments.push('</text>');
-      fragments.push(`<!-- ${sha} -->`);
       fragments.push('</svg>');
       return fragments.join('');
     }
