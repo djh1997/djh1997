@@ -28,8 +28,6 @@ const FullRulesText = '<p><button style="padding: 1%;" onclick="Rules()">Hide Ru
 const HiddenRulesText = '<p id="Rules"><button style="padding: 1%;" onclick="Rules()">Rules</button></p>'
 var RulesText = HiddenRulesText
 var timerInterval;
-var timerDuration = 5 *60;
-var timeLeft = timerDuration;
 
 function Rules() {
   var rules = document.getElementById("Rules");
@@ -76,7 +74,7 @@ function Build(){
     }
     PlayerButtons += '<button onclick="DisplayRole(\''+inputs[x]+' your Role is '+slecetedrole+'\')">'+inputs[x]+'</button>';
   }
-  PlayerButtons += '<br><p id="timer"><button style="padding: 1%;" onclick="StartTimer()">Start Timer</button></p>'
+  PlayerButtons += '<br><p id="timer"><button style="padding: 1%;" onclick="StartTimer(300)">Start Timer</button></p>'
   output.innerHTML = PlayerButtons
 
 }
@@ -99,16 +97,19 @@ function SelectWord(){
   return words.splice(index,1)[0];
 }
 
-function StartTimer() {
+function StartTimer(timeLeft) {
   clearInterval(timerInterval);
+  var now = new Date().getTime();
+  var timerEndTime = now + (timeLeft * 1000);
   UpdateTimerDisplay(timeLeft);
   timerInterval = setInterval(function() {
-    timeLeft -= 1;
+    var now = new Date().getTime();
+    timeLeft = Math.max(0, Math.ceil((timerEndTime - now) / 1000));
     if (timeLeft <= 0) {
       clearInterval(timerInterval);
       var timer = document.getElementById('timer');
       if (timer) {
-        timer.innerHTML = 'Time is up!<br><button style="padding: 1%;" onclick="ExtendTimer()">Extend Timer</button><br>'+
+        timer.innerHTML = 'Time is up!<br><button style="padding: 1%;" onclick="StartTimer(60)">Extend Timer</button><br>'+
         '<button style="padding: 1%;" onclick="Reset()">Play Again</button>';
       }
       alert('Time is up!');
@@ -118,21 +119,19 @@ function StartTimer() {
   }, 1000);
 }
 
-function UpdateTimerDisplay(seconds) {
+function UpdateTimerDisplay(timeLeft) {
+  var seconds = Math.max(0, timeLeft);
   var minutes = Math.floor(seconds / 60);
   var remainingSeconds = seconds % 60;
   var formatted = minutes + ':' + (remainingSeconds < 10 ? '0' : '') + remainingSeconds;
   var timer = document.getElementById('timer');
-  timer.innerHTML = 'Timer: ' + formatted;
-}
-
-function ExtendTimer() {
-  timeLeft += 60;
-  StartTimer(timeLeft);
+  if (timer) {
+    timer.innerHTML = 'Timer: ' + formatted;
+  }
 }
 
 function Reset() {
-  timeLeft = timerDuration;
+  clearInterval(timerInterval);
   var output = document.getElementById("output");
   output.innerHTML = '<button style="padding: 1%;" onclick="Build()">Assign Roles</button>';
   DisplayRole('');
