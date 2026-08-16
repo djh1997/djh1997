@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg viewBox="-10 -10 260 160" width="260" height="160" xmlns="http://www.w3.org/2000/svg">
  <!-- &#xA726; &#x00D0; -->
- <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 33 33 L 0 33 L 0 0 L 33 0 L 33 99 L 66 99 L 66 66 L 33 66 M 33 0 L 66 0 L 66 33 M 0 99 L 33 99 M 100 0 L 100 100 M 100 50 L 150 50 M 150 0 L 150 100 A 25 25, 0, 0, 1, 125 125 M 200 0 L 200 100 C 250 100 250 0 200 0 Z M 175 50 L 225 50" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 0)"/>
+ <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 33 33 L 0 33 L 0 0 L 33 0 L 33 99 L 66 99 L 66 66 L 33 66 M 33 0 L 66 0 L 66 33 M 0 99 L 33 99 M 100 0 L 100 100 M 100 50 L 150 50 M 150 0 L 150 100 A 25 25, 0, 0, 1, 125 125 M 200 0 L 200 100 C 250 100 250 0 200 0 Z M 175 50 L 225 50"/>
 </svg>
