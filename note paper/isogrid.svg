@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<defs>
+<pattern id="a" width="5mm" height="8.66mm" patternTransform="scale(1)" patternUnits="userSpaceOnUse">
+<circle cx="1mm" cy="1mm" r=".3mm"/>
+<circle cx="3.5mm" cy="5.33mm" r=".3mm"/>
+</pattern></defs>
+<rect width="800%" height="800%" fill="url(#a)"/></svg>
