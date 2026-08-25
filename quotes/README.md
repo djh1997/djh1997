@@ -6,6 +6,8 @@
 
 Always salt&#x1F714; your hash#.
 
+Weaponised incompetence is the sibling of premeditated stupidity.
+
 ## Terry Pratchett
 
 ![wintersmith symbol](/quotes/bookmark.svg)
