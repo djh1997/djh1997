@@ -15,7 +15,7 @@ I'm djh1997 most places online.
 
 I'm a coder that specialises in VHDL, living on the Isle of Wight.
 
-I have worked on real time control systems for in-flight entertainment and naval air defense radar.
+I have worked on real time control systems for iaircraft cabin interior's and naval air defense radar.
 
 I also run the [Isle of Wight](https://iow.triumphsportsix.club) area of the [Triumph Sports Six Club](https://www.tssc.org.uk/tssc/areas_final.asp?area_ID=37&area=South%20East,%20Isle%20of%20Wight)
 
