@@ -1,5 +1,6 @@
 {
   "name": "Imposter",
+  "description": "Browser based version of the game Imposter",
   "short_name": "Imposter",
   "background_color": "#ffffff",
   "dir": "ltr",

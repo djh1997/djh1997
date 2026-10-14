@@ -1,0 +1,18 @@
+{
+  "name": "Beach Bingo",
+  "description": "A simple beach bingo game",
+  "short_name": "Beach Bingo",
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "orientation": "any",
+  "scope": ".",
+  "start_url": "./",
+  "theme_color": "#ffffff",
+  "icons": [
+  {
+    "src": "../favicon.svg",
+    "sizes": "any"
+  }
+  ]
+}
