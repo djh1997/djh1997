@@ -6,6 +6,6 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Imposter",
-  "start_url": "/",
+  "start_url": "/Imposter",
   "theme_color": "#ffffff"
 }
