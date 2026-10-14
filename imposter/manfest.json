@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Imposter",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Imposter",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
