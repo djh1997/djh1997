@@ -80,4 +80,8 @@ The moment an institution forgets the rules that had been painfully written in b
 
 Are you aware that people can see how you treat strangers? ~ Merlin Mann
 
+Too many people spend their lives being dutiful descendants instead of good ancestors. The responsibility of each generation is not to please their predecessors. It's to improve things for their offspring. It's more important to make your children proud than your parents proud. - Adam Grant
+
+Kgosi ke kgosi ka batho - translates to The king is king by the grace of the people a Botswana proverb
+
 The earth [is] alive in all of these ways simultaneously. Like alive with the the geology of the aurora because the aurora is like more or less a geological phenomenon. And then alive with like the water cycle of thunderstorms. And then alive with the green on the continents. And then alive with the the city lights on the coasts of these continents. And then alive with the satellites twinkling and threading through space on the outside. ~ Hank Green about talking about the ![cosmic shoreline](/quotes/Earth2copy.gif)
