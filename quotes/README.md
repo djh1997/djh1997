@@ -84,4 +84,6 @@ Too many people spend their lives being dutiful descendants instead of good ance
 
 Kgosi ke kgosi ka batho - translates to The king is king by the grace of the people a Botswana proverb
 
+If I didn’t have time to properly prepare, then it would cause a lot of stress. From where I stand, it was not stressful, because I’m doing this as a volunteer, and if I get hit by a bus, then it will be someone else’s problem. - Ondřej Surý
+
 The earth [is] alive in all of these ways simultaneously. Like alive with the the geology of the aurora because the aurora is like more or less a geological phenomenon. And then alive with like the water cycle of thunderstorms. And then alive with the green on the continents. And then alive with the the city lights on the coasts of these continents. And then alive with the satellites twinkling and threading through space on the outside. ~ Hank Green about talking about the ![cosmic shoreline](/quotes/Earth2copy.gif)
